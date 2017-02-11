@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Assignment_1</string>
+
+    <string name="welcome_to_msu">WELCOME TO MSU</string>
+    <string name="username_MA">Username:</string>
+    <string name="password_MA">Password:</string>
+    <string name="hint_1234_MA">i.e. 1234</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_forgot_password">Forgot password</string>
+
+    <string name="lbl_forgot">Please enter your username and email!</string>
+    <string name="btn_send_forgot">Send Email</string>
+
+    <string name="enter_your_password">Enter your password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="enter_your_msu_email">Enter your MSU email</string>
+    <string name="enter_your_major">Enter your major</string>
+    <string name="enter_a_username">Enter a username</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_DoB">Enter you date of birth</string>
+    <string name="select_major">Select major:</string>
+
+    <string name="error_password">You password should have at least 6 characters</string>
+    <string name="error_email">You email should be contain montclair.edu</string>
+
+    <string-array name="major_list">
+        <item>COMPUTER SCIENCE</item>
+        <item>SYSTEMS ANALYSIS</item>
+        <item>COMPUTER ENGINEERING</item>
+        <item>ARTIFICIAL INTELLIGENCE</item>
+        <item>COMPUTER GRAPHICS</item>
+        <item>SOFTWARE ENGINEERING</item>
+        <item>COMPUTER NETWORKS</item>
+    </string-array>
+</resources>
